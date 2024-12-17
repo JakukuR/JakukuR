@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 - 👥Member of ~~CTRL~~ CV Group of [@SDUST-SR](https://gitee.com/sand--sm-team-visual-team)
 - RMer
 
-[![JakukuR's GitHub stats](https://api-github-readme-stats.JakukuR.top/api?username=JakukuR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![JakukuR's GitHub stats](https://api-github-readme-stats.vercel.app/api?username=JakukuR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://api-github-readme-stats.JakukuR.top/api/top-langs/?username=JakukuR&layout=compact&hide=javascript,html,css,php,scss,typescript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://api-github-readme-stats.vercel.app/api/top-langs/?username=JakukuR&layout=compact&hide=javascript,html,css,php,scss,typescript)](https://github.com/anuraghazra/github-readme-stats)
