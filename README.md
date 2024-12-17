@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </picture>
 
 - 👨‍🎓Undergraduate of SDUST
-- 👥Member of ~~CTRL~~ CV Group of [@SDUST-SR](https://gitee.com/sand--sm-team-visual-team)
+- 👥Member of ~~CTRL~~ CV Group of [@SDUST-SR-vision](https://gitee.com/sand--sm-team-visual-team)
 - RMer
 
 
