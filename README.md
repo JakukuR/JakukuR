@@ -41,4 +41,7 @@ Here are some ideas to get you started:
 
 [![JakukuR's GitHub stats](https://github-readme-stats-dzva4c6v7-jakukurs-projects.vercel.app/api?username=JakukuR&show_icons=true&theme=tokyonight)](https://github-readme-stats-dzva4c6v7-jakukurs-projects.vercel.app)
 
-[![Top Langs](https://api-github-readme-stats-dzva4c6v7-jakukurs-projects.vercel.app/api/top-langs/?username=JakukuR&layout=compact&hide=javascript,html,css,php,scss,typescript)]()
+[![Top Langs](/api/top-langs/?username=JakukuR&layout=compact&hide=javascript,html,css,php,scss,typescript)]()
+
+[![Top Langs](https://api-github-readme-stats-dzva4c6v7-jakukurs-projects.vercel.app/api/top-langs/?username=JakukuR)](https://github.com/anuraghazra/github-readme-stats)
+
