@@ -23,6 +23,6 @@ You can click the Preview link to take a look at your changes.
 - RMer
 ----
 
-[![JakukuR's GitHub stats](github-readme-stats.vercel.app/api?username=JakukuR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![JakukuR's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakukuR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakukuR&layout=compact&hide=javascript,html,css,php,scss,typescript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakukuR&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
