@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 - RMer
 
 
-[![JakukuR's GitHub stats](https://github-readme-stats-dzva4c6v7-jakukurs-projects.vercel.app/api?username=JakukuR&show_icons=true&theme=tokyonight)]()
+[![JakukuR's GitHub stats](https://github-readme-stats-dzva4c6v7-jakukurs-projects.vercel.app/api?username=JakukuR&show_icons=true&theme=tokyonight)](https://github-readme-stats-dzva4c6v7-jakukurs-projects.vercel.app)
 
 [![Top Langs](https://api-github-readme-stats-dzva4c6v7-jakukurs-projects.vercel.app/api/top-langs/?username=JakukuR&layout=compact&hide=javascript,html,css,php,scss,typescript)]()
