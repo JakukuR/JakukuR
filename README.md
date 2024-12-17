@@ -14,15 +14,12 @@ You can click the Preview link to take a look at your changes.
 ----
 
 - 👋 Hi, I’m [@JakukuR](https://blog.jakukur0226.top/)
-- 👀 I’m interested in the thing which can catch my eye
-- 🌱 I’m currently learning IC && CS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👨‍🎓Undergraduate of SDUST
-- 👥Member of ~~CTRL~~ CV Group of [@SDUST-SR-vision](https://gitee.com/sand--sm-team-visual-team)
-- RMer
+- 👨‍🎓 Undergraduate of SDUST
+- 👥 Member of ~~CTRL~~ CV Group of [@SDUST-SR-vision](https://gitee.com/sand--sm-team-visual-team)
+- ⚡ A RMer
+- 👀 I’m interested in the thing **WHAT I REALLY LIKE !!!**
+- 🌱 I’m currently learning IC && CS...
+- 😄 A Salted Fish Without Dream...
 
 ----
 
