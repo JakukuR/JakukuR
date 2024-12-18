@@ -1,5 +1,4 @@
-# Welcome to MY WROLD
-## Hello, Everyone!👋
+![](https://gitee.com/gsq0226/picture/raw/master/self1_.gif)
 <!---
 JakukuR/JakukuR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
