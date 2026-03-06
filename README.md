@@ -21,7 +21,3 @@ You can click the Preview link to take a look at your changes.
 - 😄 A Salted Fish Without Dream...
 
 ----
-
-[![JakukuR's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakukuR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakukuR&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
