@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m [@JakukuR](https://blog.jakukur0226.top/)
 - 👨‍🎓 Undergraduate of SDUST
-- 👥 Member of Forward Robotics
+- 👥 LFT
 - ⚡ A Retired RMer
 - 👀 I’m interested in the thing **WHAT I REALLY LIKE !!!**
 - 🌱 I’m currently learning IC && CS...
